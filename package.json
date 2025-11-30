@@ -1,6 +1,7 @@
 {
   "name": "using-pre-built-react-components",
   "version": "1.0.0",
+  "homepage": "https://techieNiladri.github.io/KeeperApp",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
