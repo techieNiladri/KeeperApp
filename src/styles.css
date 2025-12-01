@@ -59,16 +59,8 @@ footer p {
   word-wrap: break-word;
 }
 
-.note button {
-  position: relative;
-  float: right;
+.note .MuiIconButton-root {
   margin-right: 10px;
-  color: #f97316;
-  border: none;
-  width: 20px;
-  height: 20px;
-  cursor: pointer;
-  outline: none;
 }
 
 form.create-note {
