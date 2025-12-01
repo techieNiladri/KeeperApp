@@ -1,13 +1,14 @@
 {
   "name": "using-pre-built-react-components",
   "version": "1.0.0",
+  "homepage": "https://techieNiladri.github.io/KeeperApp",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "uuid": "13.0.0",
     "@mui/icons-material": "7.3.5",
     "@mui/core-downloads-tracker": "7.3.4",
